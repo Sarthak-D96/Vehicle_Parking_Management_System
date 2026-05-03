@@ -1,3 +1,4 @@
+
 const urlParams = new URLSearchParams(window.location.search);
 const lotName = urlParams.get('lot') || 'Unknown';
 document.getElementById("lotTitle").textContent = `🔲 Lot ${lotName}`;
