@@ -1,3 +1,4 @@
+
 const form = document.getElementById("paymentForm");
 const methodSelect = document.getElementById("method");
 const detailsContainer = document.getElementById("detailsContainer");
