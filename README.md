@@ -161,8 +161,7 @@ We welcome contributions! Here's how you can help:
 
 ## 👨‍💻 Credits
 
-**Developer:** Arpan Goyal  
-**LinkedIn:** [https://www.linkedin.com/in/arpangoyal97/](https://www.linkedin.com/in/arpangoyal97/)
+**Developer:** Sarthak Duvedi, Divyam Chopra
 
 ## 📞 Support
 
