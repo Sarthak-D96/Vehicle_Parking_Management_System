@@ -1,3 +1,4 @@
+//
 document.addEventListener("DOMContentLoaded", () => {
   const logDateInput = document.getElementById("logDate");
   const userSearchInput = document.getElementById("userSearch");
