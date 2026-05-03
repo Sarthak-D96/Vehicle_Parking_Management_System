@@ -1,3 +1,4 @@
+
 document.addEventListener("DOMContentLoaded", async () => {
   const tableBody = document.getElementById("revenueTableBody");
   const chartCanvas = document.getElementById("revenueChart").getContext("2d");
