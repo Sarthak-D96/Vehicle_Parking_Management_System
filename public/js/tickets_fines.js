@@ -8,7 +8,8 @@ const charges = [
   const unpaidContainer = document.getElementById("chargesList");
   const paidContainer = document.getElementById("paymentHistory");
   
-  function renderCharges() {
+  
+function renderCharges() {
     unpaidContainer.innerHTML = '';
     paidContainer.innerHTML = '';
   
