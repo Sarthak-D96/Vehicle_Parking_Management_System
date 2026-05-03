@@ -1,5 +1,9 @@
+//  clear session or token if stored
+
 document.getElementById("logoutBtn").addEventListener("click", () => {
-    // Clear session or token if stored
+    
+
+    
     alert("Logging out...");
     window.location.href = "/login/index.html";
   });
