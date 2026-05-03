@@ -1,3 +1,4 @@
+//
 const lots = [
     { id: 1, name: "Lot A" },
     { id: 2, name: "Lot B" },
