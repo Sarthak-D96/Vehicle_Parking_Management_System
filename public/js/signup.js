@@ -1,6 +1,7 @@
 document.getElementById("signupForm").addEventListener("submit", function (e) {
     e.preventDefault();
   
+    
     const role = document.getElementById("role").value;
     const username = document.getElementById("username").value.trim();
     const email = document.getElementById("email").value.trim();
