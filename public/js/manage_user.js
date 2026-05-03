@@ -1,3 +1,4 @@
+//
 const searchInput = document.getElementById("searchInput");
 const userTableBody = document.getElementById("userTableBody");
 
