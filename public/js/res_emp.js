@@ -1,3 +1,4 @@
+
 document.addEventListener("DOMContentLoaded", () => {
     const searchInput = document.getElementById("searchInput");
     const tableRows = document.querySelectorAll("#reservationTableBody tr");
