@@ -1,5 +1,10 @@
 let currId = 0;
 
+
+// main running file for the server, 
+// handles all the routes and database connections. 
+// It also imports all the necessary modules and sets up the server.
+
 const users = [];
 const employees = [];
 const vehicles = [];
